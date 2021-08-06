@@ -1,0 +1,13 @@
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.exe
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.deps.json
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.json
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.dev.json
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.dll
+C:\FoxMinded\task4-guessnumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.pdb
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csprojAssemblyReference.cache
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfoInputs.cache
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfo.cs
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.CoreCompileInputs.cache
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.dll
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.pdb
+C:\FoxMinded\task4-guessnumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.genruntimeconfig.cache
